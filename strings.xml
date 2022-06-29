@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarcoPoloAssignment</string>
+    <string name="introduction_text">Please click Marco or Polo!</string>
+    <string name="marco_text">Marco!</string>
+    <string name="polo_text">Polo!</string>
+
+    <string name="marco_toast">Marco!</string>
+    <string name="polo_toast">Polo!</string>
+
+</resources>
